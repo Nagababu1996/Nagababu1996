@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nagababu.self@gmail.com**
 
-- 📄 Know about my experiences [I have 2.9 years on manual test engineer in Facility Domain Project](I have 2.9 years on manual test engineer in Facility Domain Project)
+- 📄 Know about my experiences [I have 2.9 years on manual test engineer in Facility Domain Project]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
